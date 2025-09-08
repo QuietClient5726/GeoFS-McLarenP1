@@ -1,8 +1,8 @@
 {
-  "id": 319,
+  "id": 301,
   "name": "McLaren P1",
   "fullPath": "https://quietclient5726.github.io/GeoFS-McLarenP1/model/",
   "isPremium": 0,
   "isCommunity": 0,
-  "definition": "eyJtb2RlbCI6Im1vZGVsL21jbGFyZW5wMS5nbGIiLCJtYXNzIjoxNTAwLCJlbmdpbmUiOnsidHlwZSI6ImNhciIsInBvd2VyIjo5MDMsIm1heFJwbSI6OTAwMH0sImFlcm9keW5hbWljcyI6eyJkcmFnIjowLjM0LCJsaWZ0IjowLjB9LCJncm91bmQiOnsiZ2VhciI6W3sicG9zIjpbMS43LC0wLjMsMS41XSwicmFkaXVzIjowLjM1LCJzdGVlcmluZyI6dHJ1ZX0seyJwb3MiOlsuMS43LC0wLjMsMS41XSwicmFkaXVzIjowLjM1LCJzdGVlcmluZyI6dHJ1ZX0seyJwb3MiOlsxLjcsLTAuMywtMS42XSwicmFkaXVzIjowLjM1fSx7InBvcyI6Wy0xLjcsLTAuMywtMS42XSwicmFkaXVzIjowLjM1fV19fQ=="
+  "definition": "ewogICJuYW1lIjogIk1jTGFyZW4gUDEiLAogICJtb2RlbCI6ICJtY2xhcmVucDEuZ2xiIiwKICAibWFzcyI6IDE1NzUsCiAgImVuZ2luZSI6IHsKICAgICJ0eXBlIjogInBpc3RvbiIsCiAgICAicG93ZXIiOiA3NTAKICB9LAogICJnZWFyIjogW3sibnVtV2hlZWxzIjogNCwgInR5cGUiOiAidHJhY3Rpb24ifV0KfQ=="
 }
